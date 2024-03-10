@@ -1,0 +1,6 @@
+2024-03-10 00:29:35 Test Case One: One Hundred Integer Inputs
+2024-03-10 00:29:35 The program-calculated trimmed mean after trimming 5% of the values from either end of the sorted vector of numerics is:  45.5
+2024-03-10 00:29:35 The expected correct trimmed mean value is 45.5.
+2024-03-10 00:29:35 Test Case Two: One Hundred Float Inputs
+2024-03-10 00:29:35 The program-calculated trimmed mean after trimming 5% of the values from either end of the sorted vector of numerics is:  4.55
+2024-03-10 00:29:35 The expected correct trimmed mean value is 4.55.
